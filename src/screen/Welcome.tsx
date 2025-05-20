@@ -15,7 +15,7 @@ function HomePage() {
         <Grid size={6}>
           <ImageTextButton
             imageSrc={vocabularyReview}
-            text="Vocabulary review"
+            text="Vocabulary review test"
             onClick={() => navigate("/iceBreaker")}
           />
         </Grid>
